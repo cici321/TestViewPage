@@ -20,11 +20,6 @@ import android.widget.HorizontalScrollView;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-/**
- * 
- * @author chenyali
- * 
- */
 public class NewsActivity extends Activity implements OnClickListener, OnPageChangeListener {
 
 	private ViewPager mViewPager;
